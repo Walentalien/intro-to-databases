@@ -7,4 +7,4 @@ concat()\
 ltrim()\
 rtrim()\
 str()\
-cast()\
+cast()
